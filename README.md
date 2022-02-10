@@ -1,64 +1,27 @@
-# Hi there, I'm Khoirul Amilin 👋 
+<h1 align="center">Hi 👋, I'm Khoirul Amilin</h1>
+<h3 align="center">A passionate Data Scientist from Indonesia</h3>
 
-## I'm an Enthusiastic data scientist!!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amilinkh&label=Profile%20views&color=0e75b6&style=flat" alt="amilinkh" /> </p>
 
-- 🌱 I’m currently work as Data Analyst at Otobox Indonesia
-- 👯 I’m looking to groups that study data science
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amilinkh" alt="amilinkh" /></a> </p>
 
-### Connect with me:
+- 🌱 I’m currently learning **Deep Learning**
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+- 💬 Ask me about **Data Science, Data Analyst,**
 
-### Languages and Tools:
+- 📫 How to reach me **a.khoirul@technologist.com**
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/khoirul-amilin-5a44ba1a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/khoirul-amilin-5a44ba1a4" height="30" width="40" /></a>
+<a href="https://instagram.com/amilinkh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amilinkh" height="30" width="40" /></a>
+</p>
 
-<br />
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amilinkh&show_icons=true&locale=en&layout=compact" alt="amilinkh" /></p>
 
-  <img align="left" alt="Khoirul Amilin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amilinkh&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amilinkh&show_icons=true&locale=en" alt="amilinkh" /></p>
 
-</details>
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amilinkh&" alt="amilinkh" /></p>
