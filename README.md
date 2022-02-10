@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **Data Science, Data Analyst,**
+- 💬 Ask me about **Data Science, Data Analyst, Graphic Design**
 
 - 📫 How to reach me **a.khoirul@technologist.com**
 
