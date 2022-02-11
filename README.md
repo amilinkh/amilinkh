@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amilinkh" alt="amilinkh" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Big Data**
 
 - 💬 Ask me about **Data Science, Machine Learning, Data Analyst, Graphic Design**
 
